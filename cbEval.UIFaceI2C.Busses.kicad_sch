@@ -93,7 +93,7 @@
 					(justify left)
 				)
 			)
-			(property "ID" "X7R-5.4n7"
+			(property "MPN" "X7R-5.4n7"
 				(at -3.81 0 90)
 				(effects
 					(font
@@ -265,7 +265,7 @@
 					)
 				)
 			)
-			(property "ID" "9-103326-0-08"
+			(property "MPN" "9-103326-0-08"
 				(at 6.35 -1.27 90)
 				(effects
 					(font
@@ -1003,7 +1003,7 @@
 				)
 			)
 			(property "Description" "CONN RCPT 16POS 0.1 GOLD PCB R/A"
-				(at 0 0 0)
+				(at 17.78 -1.27 90)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1019,7 +1019,7 @@
 					)
 				)
 			)
-			(property "ID" "1-5535512-8"
+			(property "MPN" "1-5535512-8"
 				(at 6.35 -1.27 90)
 				(effects
 					(font
@@ -1802,7 +1802,7 @@
 					(justify left)
 				)
 			)
-			(property "ID" "68000-103HLF"
+			(property "MPN" "68000-103HLF"
 				(at 3.81 0 90)
 				(effects
 					(font
@@ -2003,7 +2003,7 @@
 					(justify left)
 				)
 			)
-			(property "ID" "68000-106HLF"
+			(property "MPN" "68000-106HLF"
 				(at 3.81 -1.27 90)
 				(effects
 					(font
@@ -2282,7 +2282,7 @@
 					)
 				)
 			)
-			(property "ID" "68000-102HLF"
+			(property "MPN" "68000-102HLF"
 				(at 0 2.54 0)
 				(effects
 					(font
@@ -2445,7 +2445,7 @@
 					(hide yes)
 				)
 			)
-			(property "ID" "MFR-25FBF52-10K"
+			(property "MPN" "MFR-25FBF52-10K"
 				(at -2.54 0 90)
 				(do_not_autoplace)
 				(effects
@@ -2604,7 +2604,7 @@
 					(hide yes)
 				)
 			)
-			(property "ID" "MFR-25FBF52-47K5"
+			(property "MPN" "MFR-25FBF52-47K5"
 				(at -2.54 0 90)
 				(do_not_autoplace)
 				(effects
@@ -2763,7 +2763,7 @@
 					(hide yes)
 				)
 			)
-			(property "ID" "MFR-25FBF52-4K7"
+			(property "MPN" "MFR-25FBF52-4K7"
 				(at -2.54 0 90)
 				(do_not_autoplace)
 				(effects
@@ -2922,7 +2922,7 @@
 					(hide yes)
 				)
 			)
-			(property "ID" "MFR-25FBF52-60R4"
+			(property "MPN" "MFR-25FBF52-60R4"
 				(at -2.54 0 90)
 				(do_not_autoplace)
 				(effects
@@ -3086,7 +3086,7 @@
 					)
 				)
 			)
-			(property "ID" "JS202011CQN"
+			(property "MPN" "JS202011CQN"
 				(at 2.54 0 0)
 				(effects
 					(font
@@ -7363,7 +7363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "General Purpose Metal Film Resistor"
 			(at 76.2 38.1 0)
 			(effects
 				(font
@@ -7404,7 +7404,7 @@
 				)
 			)
 		)
-		(property "ID" "MFR-25FBF52-60R4"
+		(property "MPN" "MFR-25FBF52-60R4"
 			(at 76.2 35.56 90)
 			(effects
 				(font
@@ -7472,7 +7472,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, ground"
 			(at 60.96 111.76 0)
 			(effects
 				(font
@@ -7537,7 +7537,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, general"
 			(at 63.5 124.46 0)
 			(effects
 				(font
@@ -7603,7 +7603,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, general"
 			(at 78.74 124.46 0)
 			(effects
 				(font
@@ -7668,7 +7668,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, -15V"
 			(at 86.36 121.92 0)
 			(effects
 				(font
@@ -7708,7 +7708,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Bergstik-II_3"
+		(property "Value" "Bergstik-II_1x3"
 			(at 25.4 17.78 0)
 			(effects
 				(font
@@ -7762,7 +7762,7 @@
 				(justify right)
 			)
 		)
-		(property "ID" "68000-103HLF"
+		(property "MPN" "68000-103HLF"
 			(at 24.13 30.48 90)
 			(effects
 				(font
@@ -7806,7 +7806,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 101.6 101.6 0)
 			(effects
 				(font
@@ -7833,7 +7833,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "General Purpose Metal Film Resistor"
 			(at 99.06 104.14 0)
 			(effects
 				(font
@@ -7878,7 +7878,7 @@
 				(justify left)
 			)
 		)
-		(property "ID" "MFR-25FBF52-10K"
+		(property "MPN" "MFR-25FBF52-10K"
 			(at 96.52 104.14 90)
 			(effects
 				(font
@@ -7920,7 +7920,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 76.2 101.6 0)
 			(effects
 				(font
@@ -7947,7 +7947,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "General Purpose Metal Film Resistor"
 			(at 73.66 104.14 0)
 			(effects
 				(font
@@ -7992,7 +7992,7 @@
 				(justify left)
 			)
 		)
-		(property "ID" "MFR-25FBF52-10K"
+		(property "MPN" "MFR-25FBF52-10K"
 			(at 71.12 104.14 90)
 			(effects
 				(font
@@ -8060,7 +8060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, general"
 			(at 35.56 177.8 0)
 			(effects
 				(font
@@ -8142,7 +8142,7 @@
 				)
 			)
 		)
-		(property "ID" "JS202011CQN"
+		(property "MPN" "JS202011CQN"
 			(at 83.82 165.1 0)
 			(effects
 				(font
@@ -8267,7 +8267,7 @@
 				(justify left)
 			)
 		)
-		(property "ID" "X7R-5.4n7"
+		(property "MPN" "X7R-5.4n7"
 			(at 90.17 38.1 90)
 			(effects
 				(font
@@ -8335,7 +8335,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, general"
 			(at 88.9 124.46 0)
 			(effects
 				(font
@@ -8375,7 +8375,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Bergstik-II_3"
+		(property "Value" "Bergstik-II_1x3"
 			(at 30.48 101.6 0)
 			(effects
 				(font
@@ -8429,7 +8429,7 @@
 				(justify left)
 			)
 		)
-		(property "ID" "68000-103HLF"
+		(property "MPN" "68000-103HLF"
 			(at 24.13 93.98 90)
 			(effects
 				(font
@@ -8499,7 +8499,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, +3.3V"
 			(at 66.04 121.92 0)
 			(effects
 				(font
@@ -8564,7 +8564,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, ground"
 			(at 48.26 111.76 0)
 			(effects
 				(font
@@ -8629,7 +8629,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, +15V"
 			(at 81.28 121.92 0)
 			(effects
 				(font
@@ -8694,7 +8694,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, +5V"
 			(at 50.8 121.92 0)
 			(effects
 				(font
@@ -8760,7 +8760,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Jumper, 2-pole, open"
 			(at 144.78 27.94 0)
 			(effects
 				(font
@@ -8778,14 +8778,6 @@
 				(justify right)
 			)
 		)
-		(property "ID" "68000-102HLF"
-			(at 147.32 27.94 0)
-			(effects
-				(font
-					(size 0.635 0.635)
-				)
-			)
-		)
 		(property "Usage" "1Wire Term"
 			(at 142.24 30.48 90)
 			(effects
@@ -8793,6 +8785,14 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(property "MPN" "68000-102HLF"
+			(at 147.32 27.94 0)
+			(effects
+				(font
+					(size 0.635 0.635)
+				)
 			)
 		)
 		(pin "1"
@@ -8828,7 +8828,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 50.8 101.6 0)
 			(effects
 				(font
@@ -8855,7 +8855,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "General Purpose Metal Film Resistor"
 			(at 48.26 104.14 0)
 			(effects
 				(font
@@ -8900,7 +8900,7 @@
 				(justify left)
 			)
 		)
-		(property "ID" "MFR-25FBF52-10K"
+		(property "MPN" "MFR-25FBF52-10K"
 			(at 45.72 104.14 90)
 			(effects
 				(font
@@ -8968,7 +8968,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, ground"
 			(at 38.1 162.56 0)
 			(effects
 				(font
@@ -9032,7 +9032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "General Purpose Metal Film Resistor"
 			(at 76.2 22.86 0)
 			(effects
 				(font
@@ -9073,7 +9073,7 @@
 				)
 			)
 		)
-		(property "ID" "MFR-25FBF52-60R4"
+		(property "MPN" "MFR-25FBF52-60R4"
 			(at 76.2 20.32 90)
 			(effects
 				(font
@@ -9141,7 +9141,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, ground"
 			(at 177.8 101.6 0)
 			(effects
 				(font
@@ -9180,7 +9180,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 38.1 101.6 0)
 			(effects
 				(font
@@ -9207,7 +9207,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "General Purpose Metal Film Resistor"
 			(at 35.56 104.14 0)
 			(effects
 				(font
@@ -9252,7 +9252,7 @@
 				(justify left)
 			)
 		)
-		(property "ID" "MFR-25FBF52-10K"
+		(property "MPN" "MFR-25FBF52-10K"
 			(at 33.02 104.14 90)
 			(effects
 				(font
@@ -9294,7 +9294,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 88.9 101.6 0)
 			(effects
 				(font
@@ -9321,7 +9321,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "General Purpose Metal Film Resistor"
 			(at 86.36 104.14 0)
 			(effects
 				(font
@@ -9366,7 +9366,7 @@
 				(justify left)
 			)
 		)
-		(property "ID" "MFR-25FBF52-10K"
+		(property "MPN" "MFR-25FBF52-10K"
 			(at 83.82 104.14 90)
 			(effects
 				(font
@@ -9434,7 +9434,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, VCC"
 			(at 157.48 33.02 0)
 			(effects
 				(font
@@ -9515,7 +9515,7 @@
 				)
 			)
 		)
-		(property "ID" "JS202011CQN"
+		(property "MPN" "JS202011CQN"
 			(at 60.96 20.32 0)
 			(effects
 				(font
@@ -9594,7 +9594,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, ground"
 			(at 73.66 111.76 0)
 			(effects
 				(font
@@ -9699,7 +9699,7 @@
 				)
 			)
 		)
-		(property "ID" "MFR-25FBF52-47K5"
+		(property "MPN" "MFR-25FBF52-47K5"
 			(at 71.12 180.34 90)
 			(effects
 				(font
@@ -9767,7 +9767,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, VCC"
 			(at 144.78 20.32 0)
 			(effects
 				(font
@@ -9832,7 +9832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, ground"
 			(at 111.76 172.72 0)
 			(effects
 				(font
@@ -9914,7 +9914,7 @@
 				)
 			)
 		)
-		(property "ID" "JS202011CQN"
+		(property "MPN" "JS202011CQN"
 			(at 83.82 180.34 0)
 			(effects
 				(font
@@ -9993,7 +9993,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, ground"
 			(at 93.98 45.72 0)
 			(effects
 				(font
@@ -10058,7 +10058,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, ground"
 			(at 86.36 111.76 0)
 			(effects
 				(font
@@ -10122,8 +10122,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 266.7 63.5 0)
+		(property "Description" "CONN RCPT 16POS 0.1 GOLD PCB R/A"
+			(at 266.7 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10139,7 +10139,7 @@
 				)
 			)
 		)
-		(property "ID" "1-5535512-8"
+		(property "MPN" "1-5535512-8"
 			(at 273.05 64.77 90)
 			(effects
 				(font
@@ -10248,8 +10248,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 116.84 149.86 0)
+		(property "Description" "CONN RCPT 16POS 0.1 GOLD PCB R/A"
+			(at 116.84 149.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10265,7 +10265,7 @@
 				)
 			)
 		)
-		(property "ID" "1-5535512-8"
+		(property "MPN" "1-5535512-8"
 			(at 123.19 151.13 90)
 			(effects
 				(font
@@ -10375,7 +10375,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, ground"
 			(at 35.56 30.48 0)
 			(effects
 				(font
@@ -10414,7 +10414,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Bergstik-II_6"
+		(property "Value" "Bergstik-II_1x6"
 			(at 182.88 109.22 0)
 			(effects
 				(font
@@ -10468,7 +10468,7 @@
 				(justify left)
 			)
 		)
-		(property "ID" "68000-106HLF"
+		(property "MPN" "68000-106HLF"
 			(at 189.23 97.79 90)
 			(effects
 				(font
@@ -10548,7 +10548,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, general"
 			(at 99.06 127 0)
 			(effects
 				(font
@@ -10613,7 +10613,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, general"
 			(at 35.56 124.46 0)
 			(effects
 				(font
@@ -10678,7 +10678,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, ground"
 			(at 99.06 111.76 0)
 			(effects
 				(font
@@ -10743,7 +10743,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, ground"
 			(at 35.56 111.76 0)
 			(effects
 				(font
@@ -10808,7 +10808,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, ground"
 			(at 38.1 55.88 0)
 			(effects
 				(font
@@ -10873,7 +10873,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, ground"
 			(at 177.8 121.92 0)
 			(effects
 				(font
@@ -10912,7 +10912,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Bergstik-II_3"
+		(property "Value" "Bergstik-II_1x3"
 			(at 182.88 129.54 0)
 			(effects
 				(font
@@ -10966,7 +10966,7 @@
 				(justify left)
 			)
 		)
-		(property "ID" "68000-103HLF"
+		(property "MPN" "68000-103HLF"
 			(at 189.23 121.92 90)
 			(effects
 				(font
@@ -11036,7 +11036,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN HEADER R/A 16POS 2.54MM "
 			(at 30.48 149.86 0)
 			(effects
 				(font
@@ -11053,7 +11053,7 @@
 				)
 			)
 		)
-		(property "ID" "9-103326-0-08"
+		(property "MPN" "9-103326-0-08"
 			(at 24.13 151.13 90)
 			(effects
 				(font
@@ -11163,7 +11163,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, VCC"
 			(at 38.1 121.92 0)
 			(effects
 				(font
@@ -11228,7 +11228,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, ground"
 			(at 259.08 45.72 0)
 			(effects
 				(font
@@ -11267,7 +11267,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 160.02 38.1 0)
 			(effects
 				(font
@@ -11294,7 +11294,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "General Purpose Metal Film Resistor"
 			(at 157.48 40.64 0)
 			(effects
 				(font
@@ -11339,7 +11339,7 @@
 				(justify left)
 			)
 		)
-		(property "ID" "MFR-25FBF52-10K"
+		(property "MPN" "MFR-25FBF52-10K"
 			(at 154.94 40.64 90)
 			(effects
 				(font
@@ -11407,7 +11407,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, general"
 			(at 48.26 124.46 0)
 			(effects
 				(font
@@ -11472,7 +11472,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN HEADER R/A 16POS 2.54MM "
 			(at 30.48 63.5 0)
 			(effects
 				(font
@@ -11489,7 +11489,7 @@
 				)
 			)
 		)
-		(property "ID" "9-103326-0-08"
+		(property "MPN" "9-103326-0-08"
 			(at 24.13 64.77 90)
 			(effects
 				(font
@@ -11573,7 +11573,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 63.5 101.6 0)
 			(effects
 				(font
@@ -11600,7 +11600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "General Purpose Metal Film Resistor"
 			(at 60.96 104.14 0)
 			(effects
 				(font
@@ -11645,7 +11645,7 @@
 				(justify left)
 			)
 		)
-		(property "ID" "MFR-25FBF52-10K"
+		(property "MPN" "MFR-25FBF52-10K"
 			(at 58.42 104.14 90)
 			(effects
 				(font
@@ -11687,7 +11687,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4k7"
+		(property "Value" "4K7"
 			(at 147.32 38.1 0)
 			(effects
 				(font
@@ -11714,7 +11714,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "General Purpose Metal Film Resistor"
 			(at 144.78 40.64 0)
 			(effects
 				(font
@@ -11759,7 +11759,7 @@
 				(justify left)
 			)
 		)
-		(property "ID" "MFR-25FBF52-4K7"
+		(property "MPN" "MFR-25FBF52-4K7"
 			(at 142.24 40.64 90)
 			(effects
 				(font
@@ -11827,7 +11827,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, VCC"
 			(at 60.96 165.1 0)
 			(effects
 				(font
@@ -11892,7 +11892,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power flag, +VDC"
 			(at 101.6 124.46 0)
 			(effects
 				(font
@@ -11973,7 +11973,7 @@
 				)
 			)
 		)
-		(property "ID" "JS202011CQN"
+		(property "MPN" "JS202011CQN"
 			(at 60.96 35.56 0)
 			(effects
 				(font
@@ -12092,7 +12092,7 @@
 				)
 			)
 		)
-		(property "ID" "MFR-25FBF52-47K5"
+		(property "MPN" "MFR-25FBF52-47K5"
 			(at 71.12 165.1 90)
 			(effects
 				(font
@@ -12134,7 +12134,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Bergstik-II_3"
+		(property "Value" "Bergstik-II_1x3"
 			(at 116.84 190.5 0)
 			(effects
 				(font
@@ -12188,7 +12188,7 @@
 				(justify right)
 			)
 		)
-		(property "ID" "68000-103HLF"
+		(property "MPN" "68000-103HLF"
 			(at 123.19 182.88 90)
 			(effects
 				(font

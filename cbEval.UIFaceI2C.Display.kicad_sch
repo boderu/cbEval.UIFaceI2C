@@ -93,7 +93,7 @@
 					(justify left)
 				)
 			)
-			(property "ID" "TAP105K035SCS"
+			(property "MPN" "TAP105K035SCS"
 				(at -3.81 0 90)
 				(effects
 					(font
@@ -264,7 +264,7 @@
 					(hide yes)
 				)
 			)
-			(property "ID" "EA DOGM204W-A"
+			(property "MPN" "EA DOGM204W-A"
 				(at 0 17.78 0)
 				(effects
 					(font
@@ -887,7 +887,7 @@
 					(justify left)
 				)
 			)
-			(property "ID" "68000-103HLF"
+			(property "MPN" "68000-103HLF"
 				(at 3.81 0 90)
 				(effects
 					(font
@@ -1078,7 +1078,7 @@
 					(justify left)
 				)
 			)
-			(property "ID" "TN0702N3-G"
+			(property "MPN" "TN0702N3-G"
 				(at 2.54 0 90)
 				(effects
 					(font
@@ -1380,7 +1380,7 @@
 					(hide yes)
 				)
 			)
-			(property "ID" "MFR-25FBF52-18R"
+			(property "MPN" "MFR-25FBF52-18R"
 				(at -2.54 0 90)
 				(do_not_autoplace)
 				(effects
@@ -1539,7 +1539,7 @@
 					(hide yes)
 				)
 			)
-			(property "ID" "MFR-25FBF52-24R"
+			(property "MPN" "MFR-25FBF52-24R"
 				(at -2.54 0 90)
 				(do_not_autoplace)
 				(effects
@@ -1698,7 +1698,7 @@
 					(hide yes)
 				)
 			)
-			(property "ID" "MFR-25FBF52-47K5"
+			(property "MPN" "MFR-25FBF52-47K5"
 				(at -2.54 0 90)
 				(do_not_autoplace)
 				(effects
@@ -3006,7 +3006,7 @@
 				(justify left)
 			)
 		)
-		(property "ID" "TAP105K035SCS"
+		(property "MPN" "TAP105K035SCS"
 			(at 146.05 93.98 90)
 			(effects
 				(font
@@ -3103,7 +3103,7 @@
 				(justify left)
 			)
 		)
-		(property "ID" "68000-103HLF"
+		(property "MPN" "68000-103HLF"
 			(at 57.15 71.12 90)
 			(effects
 				(font
@@ -3284,7 +3284,7 @@
 				(justify left)
 			)
 		)
-		(property "ID" "TAP105K035SCS"
+		(property "MPN" "TAP105K035SCS"
 			(at 100.33 93.98 90)
 			(effects
 				(font
@@ -3658,7 +3658,7 @@
 				(justify left)
 			)
 		)
-		(property "ID" "TAP105K035SCS"
+		(property "MPN" "TAP105K035SCS"
 			(at 163.83 93.98 90)
 			(effects
 				(font
@@ -3772,9 +3772,8 @@
 				(justify left)
 			)
 		)
-		(property "ID" "MFR-25FBF52-24R"
+		(property "MPN" "MFR-25FBF52-24R"
 			(at 215.9 76.2 90)
-			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -3916,16 +3915,6 @@
 				(hide yes)
 			)
 		)
-		(property "ID" "MFR-25FBF52-47K5"
-			(at 203.2 132.08 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 0.635 0.635)
-					(italic yes)
-				)
-			)
-		)
 		(property "Package" "D0207"
 			(at 208.28 132.08 0)
 			(effects
@@ -3960,6 +3949,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "MPN" "MFR-25FBF52-47K5"
+			(at 203.2 132.08 90)
+			(effects
+				(font
+					(size 0.635 0.635)
+					(italic yes)
+				)
 			)
 		)
 		(pin "1"
@@ -4096,16 +4094,6 @@
 				(hide yes)
 			)
 		)
-		(property "ID" "MFR-25FBF52-18R"
-			(at 193.04 76.2 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 0.635 0.635)
-					(italic yes)
-				)
-			)
-		)
 		(property "Package" "D0207"
 			(at 198.12 76.2 0)
 			(effects
@@ -4140,6 +4128,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "MPN" "MFR-25FBF52-18R"
+			(at 193.04 76.2 90)
+			(effects
+				(font
+					(size 0.635 0.635)
+					(italic yes)
+				)
 			)
 		)
 		(pin "2"
@@ -4377,7 +4374,7 @@
 				(justify left)
 			)
 		)
-		(property "ID" "TAP105K035SCS"
+		(property "MPN" "TAP105K035SCS"
 			(at 69.85 93.98 90)
 			(effects
 				(font
@@ -4556,7 +4553,7 @@
 				(justify left)
 			)
 		)
-		(property "ID" "TAP105K035SCS"
+		(property "MPN" "TAP105K035SCS"
 			(at 130.81 93.98 90)
 			(effects
 				(font
@@ -4697,7 +4694,7 @@
 				(hide yes)
 			)
 		)
-		(property "ID" "EA DOGM204W-A"
+		(property "MPN" "EA DOGM204W-A"
 			(at 119.38 43.18 0)
 			(effects
 				(font
@@ -4862,16 +4859,6 @@
 				(hide yes)
 			)
 		)
-		(property "ID" "MFR-25FBF52-47K5"
-			(at 180.34 132.08 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 0.635 0.635)
-					(italic yes)
-				)
-			)
-		)
 		(property "Package" "D0207"
 			(at 185.42 132.08 0)
 			(effects
@@ -4908,11 +4895,20 @@
 				(justify left)
 			)
 		)
+		(property "MPN" "MFR-25FBF52-47K5"
+			(at 180.34 132.08 90)
+			(effects
+				(font
+					(size 0.635 0.635)
+					(italic yes)
+				)
+			)
+		)
 		(pin "1"
-			(uuid "f76a1111-2005-49e6-88bf-5aa1f94337b5")
+			(uuid "f76a1111-2005-49e6-88bf-5aa1f94337b6")
 		)
 		(pin "2"
-			(uuid "e53bdafc-2963-4f52-b674-fdadb9137d6f")
+			(uuid "e53bdafc-2963-4f52-b674-fdadb9137d70")
 		)
 		(instances
 			(project "cbEval.UIFaceI2C"
@@ -5013,7 +5009,7 @@
 				(justify left)
 			)
 		)
-		(property "ID" "TAP105K035SCS"
+		(property "MPN" "TAP105K035SCS"
 			(at 85.09 93.98 90)
 			(effects
 				(font
@@ -5257,7 +5253,7 @@
 				(justify left)
 			)
 		)
-		(property "ID" "TAP105K035SCS"
+		(property "MPN" "TAP105K035SCS"
 			(at 115.57 93.98 90)
 			(effects
 				(font
@@ -5409,14 +5405,6 @@
 				(justify left)
 			)
 		)
-		(property "ID" "TN0702N3-G"
-			(at 198.12 111.76 90)
-			(effects
-				(font
-					(size 0.635 0.635)
-				)
-			)
-		)
 		(property "Voltage" "20V"
 			(at 200.66 114.3 0)
 			(effects
@@ -5433,6 +5421,14 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "MPN" "TN0702N3-G"
+			(at 198.12 111.76 90)
+			(effects
+				(font
+					(size 0.635 0.635)
+				)
 			)
 		)
 		(pin "1"
@@ -5516,14 +5512,6 @@
 				(justify left)
 			)
 		)
-		(property "ID" "TN0702N3-G"
-			(at 220.98 121.92 90)
-			(effects
-				(font
-					(size 0.635 0.635)
-				)
-			)
-		)
 		(property "Voltage" "20V"
 			(at 223.52 124.46 0)
 			(effects
@@ -5542,14 +5530,22 @@
 				(justify left)
 			)
 		)
+		(property "MPN" "TN0702N3-G"
+			(at 220.98 121.92 90)
+			(effects
+				(font
+					(size 0.635 0.635)
+				)
+			)
+		)
 		(pin "1"
-			(uuid "b279411b-bf42-4eea-9b77-6c0d92ff2399")
+			(uuid "b279411b-bf42-4eea-9b77-6c0d92ff239a")
 		)
 		(pin "3"
-			(uuid "9d799a0f-db17-456c-99be-aee0cedb8361")
+			(uuid "9d799a0f-db17-456c-99be-aee0cedb8362")
 		)
 		(pin "2"
-			(uuid "9df8a239-ffea-4d15-aa95-c8f2d9a75829")
+			(uuid "9df8a239-ffea-4d15-aa95-c8f2d9a7582a")
 		)
 		(instances
 			(project "cbEval.UIFaceI2C"
